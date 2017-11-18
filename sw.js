@@ -20,31 +20,31 @@ importScripts('workbox-sw.prod.v2.1.1.js');
 const fileManifest = [
   {
     "url": "build/stqrcmp.js",
-    "revision": "f90211a3fe840d634967f2d0555f8772"
+    "revision": "74f46518cbbf3feaf6bf1d80ee24d8ff"
   },
   {
-    "url": "build/stqrcmp/e0fhfs70.js",
-    "revision": "4519f7d33f90d96b1b2b27c2b54705b6"
+    "url": "build/stqrcmp/cdz1ebkb.js",
+    "revision": "28f38d764a80ea1792abc1254167db3b"
   },
   {
-    "url": "build/stqrcmp/mjbg3qgj.js",
-    "revision": "a2248196bf79b416ed1f10dbc0113f1b"
+    "url": "build/stqrcmp/stqrcmp.8jvnyp4h.js",
+    "revision": "6c97dfe9b27d6df57730078dbb541a2f"
   },
   {
-    "url": "build/stqrcmp/stqrcmp.8yqwnnkc.js",
-    "revision": "ac72c286a72d6b5dfff2584219ed01ef"
-  },
-  {
-    "url": "build/stqrcmp/stqrcmp.ck03ub2d.js",
-    "revision": "f4033b30d080294ee4bf6dddd6670cf3"
-  },
-  {
-    "url": "build/stqrcmp/stqrcmp.l83e0cic.js",
-    "revision": "09d4879f2ba712d15c1cf93339868a67"
+    "url": "build/stqrcmp/stqrcmp.g7dbrs97.js",
+    "revision": "8ff9fd29cbf398dabdc17a5709e6f502"
   },
   {
     "url": "build/stqrcmp/stqrcmp.registry.json",
-    "revision": "eeace4987057cdd289e97a6b439ccdc3"
+    "revision": "cfd240ba13f625c855c78dfebcce7e6c"
+  },
+  {
+    "url": "build/stqrcmp/stqrcmp.rmfnnwcc.js",
+    "revision": "2f8925e6ff8228d9f56dfe6672bcec4c"
+  },
+  {
+    "url": "build/stqrcmp/wrsble3p.js",
+    "revision": "8b4810927545d3531e3576b9e9f4004c"
   },
   {
     "url": "index.html",
