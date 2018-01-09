@@ -4,8 +4,8 @@
     [
       "qr-code",
       [
-        "cdz1ebkb",
-        "wrsble3p"
+        "yat0kz88",
+        "slkajbos"
       ],
       1,
       [
@@ -55,10 +55,11 @@
           1,
           4
         ]
-      ]
+      ],
+      1
     ]
   ],
-  "core": "stqrcmp.g7dbrs97.js",
-  "coreSsr": "stqrcmp.8jvnyp4h.js",
-  "corePolyfilled": "stqrcmp.rmfnnwcc.js"
+  "core": "stqrcmp.r6tc8zdm.js",
+  "coreSsr": "stqrcmp.s3wr2ii1.js",
+  "corePolyfilled": "stqrcmp.jp0q1sln.js"
 }
