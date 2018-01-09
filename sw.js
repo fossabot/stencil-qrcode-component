@@ -19,6 +19,14 @@ importScripts('workbox-sw.prod.v2.1.2.js');
  */
 const fileManifest = [
   {
+    "url": "assets/favicon.png",
+    "revision": "786ac537ab37ad6e8662dd2549b6817b"
+  },
+  {
+    "url": "assets/icon-719.png",
+    "revision": "4bebfa0959bc92f9ba36051768392c0d"
+  },
+  {
     "url": "build/stqrcmp.js",
     "revision": "837e17988d5ef8cf25fa60d88639273f"
   },
@@ -56,11 +64,11 @@ const fileManifest = [
   },
   {
     "url": "index.html",
-    "revision": "bd82649cb768755e9154c62f2c8c7161"
+    "revision": "4306c823f0c21b33afe8800b79e88610"
   },
   {
-    "url": "workbox-sw.prod.v2.1.1.js",
-    "revision": "2a5638f9e33d09efc487b96804a0aa11"
+    "url": "manifest.json",
+    "revision": "f48384f0f929d370ce6c5637a9cbd353"
   }
 ];
 
