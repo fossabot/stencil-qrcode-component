@@ -68,7 +68,7 @@ const fileManifest = [
   },
   {
     "url": "manifest.json",
-    "revision": "f48384f0f929d370ce6c5637a9cbd353"
+    "revision": "d7bb641ac336652d50be315914ccb85b"
   }
 ];
 
